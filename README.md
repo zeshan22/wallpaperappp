@@ -1,6 +1,7 @@
 # wallpaperapp
 
-A new wallpaper app.
+I had build a Wallpaper app with flutter and pixels API. The app fetch data from API and show the data in grid view.
+You can choose from one of these and display it as full screen and u can also save it to local storage.
 
 ## Getting Started
 
